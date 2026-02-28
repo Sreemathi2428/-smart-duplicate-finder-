@@ -58,7 +58,7 @@ function App() {
       alignItems: 'center',
       justifyContent: 'center',
       fontFamily: '-apple-system, BlinkMacSystemFont, sans-serif',
-      padding: '20px'
+      
     }}>
       <div style={{
         background: 'rgba(255, 255, 255, 0.15)',
